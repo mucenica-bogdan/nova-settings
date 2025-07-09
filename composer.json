@@ -53,7 +53,7 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/outl1ne/nova-settings"
+      "url": "https://github.com/mucenica-bogdan/nova-settings.git"
     }
   ],
   "scripts": {
